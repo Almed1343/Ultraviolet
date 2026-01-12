@@ -62,5 +62,6 @@ This repository can be built, but it can't be deployed to any services. See [Ult
 ## Documentation
 
 Documentation can be found in the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet/wiki).
+
 # My Custom Ultraviolet Proxy Setup - Atlanta 2026
 This is a personal test deployment.
